@@ -1,0 +1,21 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+kraken_env/
+
+# Models and outputs
+models/*.mlmodel
+output.txt
+
+# OS-specific
+.DS_Store
+Thumbs.db
